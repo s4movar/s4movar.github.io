@@ -1,7 +1,7 @@
 ---
 title: Understanding Operating System Architectures - Monolithic vs. Microkernel
 description: 'Exploring the differences between monolithic and microkernel architectures'
-date: '2023-10-31   '
+date: '2023-10-30'
 author: Eldaniz Babayev
 ---
 
